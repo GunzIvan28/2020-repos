@@ -4,3 +4,4 @@ This repository contains notebooks containing introductory contents to :
   - github
   - conda installations
   - .yaml files and their usage
+  - genome assembly
