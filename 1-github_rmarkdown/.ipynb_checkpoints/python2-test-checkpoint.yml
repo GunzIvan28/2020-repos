@@ -1,0 +1,23 @@
+channels:
+- bioconda
+- conda-forge
+- defaults
+- R
+- biocore
+dependencies:
+- python=2.7
+- samtools=1.9
+- hisat2
+- quast
+- jupyter
+- gnuplot=4.6.0
+- kallisto
+- fastqc
+- trimmomatic
+- r-base
+- canu
+- spades
+- blast=2.6.0
+- fasttree=2.1.10
+- mafft=7.310
+- sortmerna=2.0

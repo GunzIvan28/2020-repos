@@ -1,0 +1,28 @@
+channels:
+- bioconda
+- conda-forge
+- defaults
+- R
+- biocore
+dependencies:
+- samtools=1.9
+- jupyter
+- gnuplot=4.6.0
+- kallisto
+- fastqc
+- multiqc
+- trimmomatic
+- r-base
+- fasttree
+- abricate
+- blast
+- imagemagick
+- kraken
+- sniffles
+- megahit
+- mlst
+- parallel
+- parsnp
+- quast
+- assembly-stats
+- jellyfish

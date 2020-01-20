@@ -1,0 +1,2 @@
+-- Canu release v1.5
+GFA alignments updated.
